@@ -23,6 +23,7 @@ int main(void)
 		char c;
 		
 		
+		
 		c = 'A';
 		
 		printf("%c: %d\n", c, _isupper(c));
@@ -32,5 +33,5 @@ int main(void)
 		printf("%c: %d\n", c, _isupper(c));
 		
 		return (0);
-		
+
 }
